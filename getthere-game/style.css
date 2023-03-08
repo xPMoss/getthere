@@ -1,0 +1,21 @@
+
+
+body{
+
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: block;
+    overflow: hidden;
+
+}
+
+#gameCanvas{
+
+
+    background: rgb(240, 240, 240);
+    overflow: hidden;
+
+
+
+}
